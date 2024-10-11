@@ -1,0 +1,14 @@
+C:\Users\enisa\source\repos\NTierApp\NtierApp.DAL\bin\Debug\net8.0\NtierApp.DAL.deps.json
+C:\Users\enisa\source\repos\NTierApp\NtierApp.DAL\bin\Debug\net8.0\NtierApp.DAL.runtimeconfig.json
+C:\Users\enisa\source\repos\NTierApp\NtierApp.DAL\bin\Debug\net8.0\NtierApp.DAL.dll
+C:\Users\enisa\source\repos\NTierApp\NtierApp.DAL\bin\Debug\net8.0\NtierApp.DAL.pdb
+C:\Users\enisa\source\repos\NTierApp\NtierApp.DAL\obj\Debug\net8.0\NtierApp.DAL.csproj.AssemblyReference.cache
+C:\Users\enisa\source\repos\NTierApp\NtierApp.DAL\obj\Debug\net8.0\NtierApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enisa\source\repos\NTierApp\NtierApp.DAL\obj\Debug\net8.0\NtierApp.DAL.AssemblyInfoInputs.cache
+C:\Users\enisa\source\repos\NTierApp\NtierApp.DAL\obj\Debug\net8.0\NtierApp.DAL.AssemblyInfo.cs
+C:\Users\enisa\source\repos\NTierApp\NtierApp.DAL\obj\Debug\net8.0\NtierApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\enisa\source\repos\NTierApp\NtierApp.DAL\obj\Debug\net8.0\NtierApp.DAL.dll
+C:\Users\enisa\source\repos\NTierApp\NtierApp.DAL\obj\Debug\net8.0\refint\NtierApp.DAL.dll
+C:\Users\enisa\source\repos\NTierApp\NtierApp.DAL\obj\Debug\net8.0\NtierApp.DAL.pdb
+C:\Users\enisa\source\repos\NTierApp\NtierApp.DAL\obj\Debug\net8.0\NtierApp.DAL.genruntimeconfig.cache
+C:\Users\enisa\source\repos\NTierApp\NtierApp.DAL\obj\Debug\net8.0\ref\NtierApp.DAL.dll

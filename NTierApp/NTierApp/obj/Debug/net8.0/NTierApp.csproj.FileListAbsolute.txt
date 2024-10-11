@@ -1,0 +1,5 @@
+C:\Users\enisa\source\repos\NTierApp\NTierApp\obj\Debug\net8.0\NTierApp.csproj.AssemblyReference.cache
+C:\Users\enisa\source\repos\NTierApp\NTierApp\obj\Debug\net8.0\NTierApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enisa\source\repos\NTierApp\NTierApp\obj\Debug\net8.0\NTierApp.AssemblyInfoInputs.cache
+C:\Users\enisa\source\repos\NTierApp\NTierApp\obj\Debug\net8.0\NTierApp.AssemblyInfo.cs
+C:\Users\enisa\source\repos\NTierApp\NTierApp\obj\Debug\net8.0\NTierApp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enisa\\source\\repos\\NTierApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\Film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NTierApp.Domain\\Film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\BaseClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NTierApp.Domain\\BaseClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\FilmDetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NTierApp.Domain\\FilmDetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\FilmKategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NTierApp.Domain\\FilmKategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\OyuncuFilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NTierApp.Domain\\OyuncuFilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\Oyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NTierApp.Domain\\Oyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\NTierApp.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NTierApp.Domain\\NTierApp.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NTierApp.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\NTierApp.Domain.csproj",
+              "RelativeDocumentMoniker": "NTierApp.Domain\\NTierApp.Domain.csproj",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\NTierApp.Domain.csproj",
+              "RelativeToolTip": "NTierApp.Domain\\NTierApp.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T08:01:14.052Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Oyuncu.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\Oyuncu.cs",
+              "RelativeDocumentMoniker": "NTierApp.Domain\\Oyuncu.cs",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\Oyuncu.cs",
+              "RelativeToolTip": "NTierApp.Domain\\Oyuncu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:08:59.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OyuncuFilm.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\OyuncuFilm.cs",
+              "RelativeDocumentMoniker": "NTierApp.Domain\\OyuncuFilm.cs",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\OyuncuFilm.cs",
+              "RelativeToolTip": "NTierApp.Domain\\OyuncuFilm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:04:20.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilmKategori.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\FilmKategori.cs",
+              "RelativeDocumentMoniker": "NTierApp.Domain\\FilmKategori.cs",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\FilmKategori.cs",
+              "RelativeToolTip": "NTierApp.Domain\\FilmKategori.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:02:31.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilmDetay.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\FilmDetay.cs",
+              "RelativeDocumentMoniker": "NTierApp.Domain\\FilmDetay.cs",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\FilmDetay.cs",
+              "RelativeToolTip": "NTierApp.Domain\\FilmDetay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:01:27.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\BaseClass.cs",
+              "RelativeDocumentMoniker": "NTierApp.Domain\\BaseClass.cs",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\BaseClass.cs",
+              "RelativeToolTip": "NTierApp.Domain\\BaseClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:54:47.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\Film.cs",
+              "RelativeDocumentMoniker": "NTierApp.Domain\\Film.cs",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\NTierApp\\NTierApp.Domain\\Film.cs",
+              "RelativeToolTip": "NTierApp.Domain\\Film.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:54:03.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

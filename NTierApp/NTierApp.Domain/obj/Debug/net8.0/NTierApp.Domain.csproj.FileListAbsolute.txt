@@ -1,0 +1,17 @@
+C:\Users\enisa\source\repos\NTierApp\NTierApp.Domain\bin\Debug\net8.0\NTierApp.Domain.deps.json
+C:\Users\enisa\source\repos\NTierApp\NTierApp.Domain\bin\Debug\net8.0\NTierApp.Domain.runtimeconfig.json
+C:\Users\enisa\source\repos\NTierApp\NTierApp.Domain\bin\Debug\net8.0\NTierApp.Domain.dll
+C:\Users\enisa\source\repos\NTierApp\NTierApp.Domain\bin\Debug\net8.0\NTierApp.Domain.pdb
+C:\Users\enisa\source\repos\NTierApp\NTierApp.Domain\bin\Debug\net8.0\NtierApp.DAL.dll
+C:\Users\enisa\source\repos\NTierApp\NTierApp.Domain\bin\Debug\net8.0\NtierApp.DAL.pdb
+C:\Users\enisa\source\repos\NTierApp\NTierApp.Domain\obj\Debug\net8.0\NTierApp.Domain.csproj.AssemblyReference.cache
+C:\Users\enisa\source\repos\NTierApp\NTierApp.Domain\obj\Debug\net8.0\NTierApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enisa\source\repos\NTierApp\NTierApp.Domain\obj\Debug\net8.0\NTierApp.Domain.AssemblyInfoInputs.cache
+C:\Users\enisa\source\repos\NTierApp\NTierApp.Domain\obj\Debug\net8.0\NTierApp.Domain.AssemblyInfo.cs
+C:\Users\enisa\source\repos\NTierApp\NTierApp.Domain\obj\Debug\net8.0\NTierApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\enisa\source\repos\NTierApp\NTierApp.Domain\obj\Debug\net8.0\NTierApp.636DBC83.Up2Date
+C:\Users\enisa\source\repos\NTierApp\NTierApp.Domain\obj\Debug\net8.0\NTierApp.Domain.dll
+C:\Users\enisa\source\repos\NTierApp\NTierApp.Domain\obj\Debug\net8.0\refint\NTierApp.Domain.dll
+C:\Users\enisa\source\repos\NTierApp\NTierApp.Domain\obj\Debug\net8.0\NTierApp.Domain.pdb
+C:\Users\enisa\source\repos\NTierApp\NTierApp.Domain\obj\Debug\net8.0\NTierApp.Domain.genruntimeconfig.cache
+C:\Users\enisa\source\repos\NTierApp\NTierApp.Domain\obj\Debug\net8.0\ref\NTierApp.Domain.dll
